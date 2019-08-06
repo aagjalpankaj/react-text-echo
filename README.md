@@ -1,4 +1,4 @@
-Calculator
+React Text Echo
 ---
 
 Simple react app that echoes text whatever you type.
